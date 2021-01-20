@@ -4,7 +4,7 @@
 
 Clone the repository into a folder
 
-    git clone https://github.com/hadeebataj/Blog-api.git
+    git clone https://github.com/hadeebataj/Writing-on-the-wall-api.git
 
 Install NodeJS from this [LINK](https://nodejs.org/en/)
 
